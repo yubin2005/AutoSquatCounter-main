@@ -2,7 +2,9 @@
 
 This project uses Python, MediaPipe & OpenCV to count squats in real time.
 
-<video src="squat_output.mp4" controls width="600" />
+
+# Watch My Demo
+(https://www.youtube.com/watch?v=ZPeSlNpS5mM)
 
 ## Quickstart
 ```bash
