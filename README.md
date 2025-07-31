@@ -4,6 +4,10 @@ This project uses Python, MediaPipe & OpenCV to count squats in real time.
 
 
 # Watch My Demo
+<p align="center">
+  <img src="myself.png" alt="Squat Counter Demo" width="240"/>
+</p>
+
 (https://www.youtube.com/watch?v=ZPeSlNpS5mM)
 
 ## Quickstart
